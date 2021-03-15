@@ -1,4 +1,4 @@
-/*
+
 function calcAvgSquare(num1, num2, num3) {
   let number1 = parseInt(num1)
   let number2 = parseInt(num2)
@@ -9,10 +9,10 @@ function calcAvgSquare(num1, num2, num3) {
   return answer
   }
 
-let inpt1 = prompt("Enter the first of three numbers")
-let inpt2 = prompt("Enter the second of three numbers")
-let inpt3 = prompt("Enter the third of three numbers")
+inpt1 = prompt("Enter the first of three numbers")
+inpt2 = prompt("Enter the second of three numbers")
+inpt3 = prompt("Enter the third of three numbers")
 
 calcAvgSquare(inpt1, inpt2, inpt3)
-*/
+
 

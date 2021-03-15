@@ -1,4 +1,4 @@
-/*
+
 let doneWithBucketList = false
 let yesNo = ""
 let bucketList = []
@@ -13,4 +13,4 @@ while (doneWithBucketList == false) {
  } else
     doneWithBucketList = true
   }
-*/
+

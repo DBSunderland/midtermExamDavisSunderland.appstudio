@@ -1,4 +1,4 @@
-/*
+
 let Remainder = ""
 let Average = ""
 
@@ -35,5 +35,5 @@ if (whatchaGonnaDo === "Remainder") {
 } else {
   alert("You didn't give a valid answer.")}
 
-*/
+
 
